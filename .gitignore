@@ -1,0 +1,5 @@
+# Ignore bullshit
+treta.js
+
+# OS files
+.DS_Store
